@@ -21,4 +21,4 @@
 The project includes research on the development of 3D features in NoSQL databases, as well as research to compare the capabilities of the RDBMS and NoSQL database to process large 3D cadastral datasets. Also, project includes the development of 3D cadastral models that will be tuned into NoSQL databases. In this way, it will be possible to use the full capacity of NoSQL databases for the storage and manipulation of 3D cadastral data sets.
  
   
-(C:\Users\Crea\Desktop\3DCadastres.jpeg)
+
